@@ -11,20 +11,6 @@ This repository documents my hands-on practice in network design, routing, switc
 - Design and implement enterprise network topologies.
 - Practice network segmentation and IP addressing.
 - Document configurations, testing procedures, and troubleshooting experiences.
-
-🛠️ Tools & Technologies
-
-Technology| Purpose
-Cisco Packet Tracer| Network simulation and configuration
-EVE-NG| Advanced network emulation
-Cisco IOS| Router and switch configuration
-IPv4 / IPv6| Network addressing
-OSPF| Dynamic routing
-VLAN| Network segmentation
-DHCP| Automatic IP address assignment
-NAT / PAT| Address translation
-Git & GitHub| Version control and documentation
-
 Projects will be added as they are developed and tested.
 
 🧪 Lab Documentation
