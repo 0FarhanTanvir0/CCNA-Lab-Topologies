@@ -25,15 +25,6 @@ DHCP| Automatic IP address assignment
 NAT / PAT| Address translation
 Git & GitHub| Version control and documentation
 
-📁 Project Directory
-
-Project| Description
-"01 - VLAN Segmentation" (./01-VLAN-Segmentation/)| VLAN configuration and inter-VLAN routing
-"02 - DHCP Configuration" (./02-DHCP-Configuration/)| DHCP pools and DHCP relay
-"03 - Multi-Area OSPF" (./03-Multi-Area-OSPF/)| Dynamic routing using multiple OSPF areas
-"04 - NAT/PAT" (./04-NAT-PAT/)| Network address translation
-"05 - Enterprise Network" (./05-Enterprise-Network/)| Multi-branch enterprise network design
-
 Projects will be added as they are developed and tested.
 
 🧪 Lab Documentation
