@@ -11,6 +11,8 @@ This repository documents my hands-on practice in network design, routing, switc
 - Design and implement enterprise network topologies.
 - Practice network segmentation and IP addressing.
 - Document configurations, testing procedures, and troubleshooting experiences.
+
+
 Projects will be added as they are developed and tested.
 
 🧪 Lab Documentation
